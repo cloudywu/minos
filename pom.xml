@@ -7,5 +7,6 @@
   <name>minos v${project.version}</name>
   <modules>
   	<module>minos-server</module>
+  	<module>minos-client</module>
   </modules>
 </project>
